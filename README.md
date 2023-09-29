@@ -5,7 +5,7 @@ Nextjs, TypeScript, Reactjs, Nodejs, Postgresql, Prisma ORM, TailwindCSS, Headle
 
 ## To get the file running
 
-### Step 1: Download onto local IDE
+### Step 1: Download file and open on local IDE
 
 ### Step 2: npm install (This will load up all the node modules and dependencies)
 
